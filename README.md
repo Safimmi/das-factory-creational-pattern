@@ -6,4 +6,4 @@
 > https://github.com/CesarAVegaF312/DYAS-GoF-CreationalPatterns-GameRefactoring </br>
 > https://github.com/CesarAVegaF312/DYAS-GoF-Patterns-Creational-PizzaFactory </br>
 
-![factory-creational-pattern](assets\factory-creational-pattern.svg)
+![factory-creational-pattern](./assets/factory-creational-pattern.svg)
